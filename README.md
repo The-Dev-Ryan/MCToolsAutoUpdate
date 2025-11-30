@@ -66,7 +66,7 @@ jobs:
 
 ## ❓ Troubleshooting
 
-### MeshCentral isn’t updating
+### MeshCentralTools isn’t updating
 - Confirm the API key is correct  
 - Ensure the endpoint URL matches exactly  
 - Check GitHub Actions logs  
